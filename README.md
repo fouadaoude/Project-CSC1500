@@ -19,12 +19,17 @@
     a. Roughly 1 week and a half
     b. Around 80-120 hours
 
-**<ins>4. This program is free to use for commercial as well as for learning purposes.</ins>**
+**<ins>4. This program is free to use for commercial as well as for learning purposes upon request.</ins>**
+    
+    a. Message me if your plan is to use for commercial first.
 
 **<ins>5. Entire program is unique and zero code is stolen off the internet.</ins>**
+    
+    a. Made this project to learn about Tkinter, and introduce myself to Python backend.
 
 **<ins>6. Comments are provided where necessary.</ins>**
-
+    
+    a. There may be some missing comments, message me for more information on logic and procedures. 
 
 
 ## Feel free to message me for any questions or collaborations ##
