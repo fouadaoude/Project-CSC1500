@@ -4,20 +4,20 @@
 
 **<ins>1. How is this application useful?</ins>**
 
-  a. Helps employers easily keep track of their employees
-  b. Provides local database file for tables and entries that can be exported
-  c. Straight forward, also everything has a specfic purpose within application
+    a. Helps employers easily keep track of their employees
+    b. Provides local database file for tables and entries that can be exported
+    c. Straight forward, also everything has a specfic purpose within application
 
 **<ins>2. Who should use this application?</ins>**
 
-  a. Users who would like to manage their employees information
-  b. Users who would like a locally saved database capable of being exported
-  c. Anyone learning Software Engineering
+    a. Users who would like to manage their employees information
+    b. Users who would like a locally saved database capable of being exported
+    c. Anyone learning Software Engineering
 
 **<ins>3. How long did this application take to make?</ins>**
 
-  a. Roughly 1 week and a half
-  b. Around 80-120 hours
+    a. Roughly 1 week and a half
+    b. Around 80-120 hours
 
 **<ins>4. This program is free to use for commercial as well as for learning purposes.</ins>**
 
