@@ -1,4 +1,4 @@
-**# Forestview Project CSC 1500 #**
+# Forestview Project CSC 1500 #
 
 **# This Application was created for my CSC 1500 Course at Wayne State University, Fall 2022 #**
 
@@ -27,4 +27,4 @@
 
 
 
-**# Feel free to message me for any questions or collaborations #**
+# Feel free to message me for any questions or collaborations #
