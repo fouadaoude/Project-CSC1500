@@ -2,7 +2,7 @@
 
 **# This Application was created for my CSC 1500 Course at Wayne State University, Fall 2022 #**
 
-**1. How is this application useful?**
+**<u>1. How is this application useful?</u>**
 
   a. Helps employers easily keep track of their employees
   b. Provides local database file for tables and entries that can be exported
