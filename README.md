@@ -8,22 +8,22 @@
   b. Provides local database file for tables and entries that can be exported
   c. Straight forward, also everything has a specfic purpose within application
 
-**2. Who should use this application?**
+**<ins>2. Who should use this application?</ins>**
 
   a. Users who would like to manage their employees information
   b. Users who would like a locally saved database capable of being exported
   c. Anyone learning Software Engineering
 
-**3. How long did this application take to make?**
+**<ins>3. How long did this application take to make?</ins>**
 
   a. Roughly 1 week and a half
   b. Around 80-120 hours
 
-**4. This program is free to use for commercial as well as for learning purposes.**
+**<ins>4. This program is free to use for commercial as well as for learning purposes.</ins>**
 
-**5. Entire program is unique and zero code is stolen off the internet.**
+**<ins>5. Entire program is unique and zero code is stolen off the internet.</ins>**
 
-**6. Comments are provided where necessary.**
+**<ins>6. Comments are provided where necessary.</ins>**
 
 
 
